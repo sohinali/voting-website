@@ -1,6 +1,9 @@
 # voting-website
 # home page
 ![Screenshot (26)](https://github.com/sohinali/voting-website/assets/107634907/8c1ffb64-039d-43ae-baf6-9570f813ffa2)
+# registration form for voter
+![Screenshot (32)](https://github.com/sohinali/voting-website/assets/107634907/a798bcf7-51e2-44dd-8829-3301fc4618d4)
+
 # login panel
 ![Screenshot (27)](https://github.com/sohinali/voting-website/assets/107634907/a55347d4-2ae4-497d-b258-a54460b7191d)
 # admin panel
