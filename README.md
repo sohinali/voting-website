@@ -1,7 +1,7 @@
 # voting-website
-home page
+# home page
 ![Screenshot (26)](https://github.com/sohinali/voting-website/assets/107634907/8c1ffb64-039d-43ae-baf6-9570f813ffa2)
-dashboard
+# login panel
 ![Screenshot (27)](https://github.com/sohinali/voting-website/assets/107634907/a55347d4-2ae4-497d-b258-a54460b7191d)
 admin panel
 ![Screenshot (31)](https://github.com/sohinali/voting-website/assets/107634907/9125b044-51e9-409d-a95b-7c11180c61d7)
