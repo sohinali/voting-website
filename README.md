@@ -4,7 +4,8 @@
 # login panel
 ![Screenshot (27)](https://github.com/sohinali/voting-website/assets/107634907/a55347d4-2ae4-497d-b258-a54460b7191d)
 admin panel
-![Screenshot (31)](https://github.com/sohinali/voting-website/assets/107634907/9125b044-51e9-409d-a95b-7c11180c61d7)
+![Screenshot (29)](https://github.com/sohinali/voting-website/assets/107634907/1b00a83f-e17f-4b6a-9b5b-7ce9fdf1f9d9)
+
 voting candidate
 ![Screenshot (30)](https://github.com/sohinali/voting-website/assets/107634907/76e282ee-1b9e-429c-ad23-616a201f3e22)
 result panel
